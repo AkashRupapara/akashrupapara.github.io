@@ -86,7 +86,8 @@ export default function About() {
               {[
                 { label: 'Current role', value: 'Senior Software Engineer @ Fortinet' },
                 { label: 'Location', value: 'Milpitas, CA' },
-                { label: 'Education', value: 'MS Computer Software Eng, SJSU' },
+                { label: 'Graduate', value: 'MS Computer Software Engineering, SJSU' },
+                { label: 'Undergraduate', value: 'BTech Information & Communication Technology, Ahmedabad University' },
                 { label: 'Focus areas', value: 'AI Security, Distributed Systems, GenAI' },
                 { label: 'Email', value: 'akash.rupapara@gmail.com' },
               ].map(({ label, value }) => (

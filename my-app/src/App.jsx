@@ -3,6 +3,7 @@ import Navigation from './Components/Navigation';
 import Hero from './Components/Hero';
 import About from './Components/About';
 import Experience from './Components/Experience';
+import Education from './Components/Education';
 import Projects from './Components/Projects';
 import Awards from './Components/Awards';
 import Contact from './Components/Contact';
@@ -36,6 +37,7 @@ function App() {
         <Hero theme={theme} />
         <About />
         <Experience />
+        <Education />
         <Projects />
         <Awards />
         <Contact />
