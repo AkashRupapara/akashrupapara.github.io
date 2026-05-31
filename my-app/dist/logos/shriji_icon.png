@@ -1,0 +1,597 @@
+
+	
+<!DOCTYPE html>
+<html lang="zxx">
+   <head>
+      
+	<base href="/index.php" />
+    <title>Shriji TechnoAspire Pvt.Ltd | Indias Leading Brand in establishment of ATL Lab | Robotics | STEM | ARVR | Drone Lab in School colleges and Universities | Private Lab |  Internet of Things | Artificial Intelligence | Virtual reality | 3D Printing | Electronics | Arduino | Raspberry Pi | Gujarat | Gandhinagar </title><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta name="author" content="Shriji TechnoAspire Pvt.Ltd">
+	  
+	  
+<meta name="title" content="Indias Leading Brand in establishment of ATL Lab | Robotics | STEM | ARVR | Drone Lab in School colleges and Universities | Private Lab |  Internet of Things | Artificial Intelligence | Virtual reality | Drone | 3D Printing | Electronics | Arduino | Raspberry Pi | Embedded |  IOT | Vocational | STEM | Science | Engineering  | Mathematics | Prototyping | Atal Tinkering laboratory | Atal Innovation Mission | LBD | Learning by doing | Hands on Learning | Gujarat | Gandhinagar | Shriji |  Shriji Technoaspire | Blix | Mechanical Tools | Anycubic | MEmorandum of agreement | PFMS (Public finance management system) | GEM (Government E MarketPlace) | Furniture | Laptop | Projector" />		
+
+<meta itemprop="name" content="Embedded, IOT, Robotics, Electronics, Vocational, STEM, Science, Engineering, Mathematics, Prototyping, 3D Printing, ATL, Atal Tinkering laboratory, Atal Innovation Mission, LBD, Learning by doing, Hands on Learning, Gujarat, Gandhinagar, Shriji, Shriji Technoaspire, Blix, Mechanical Tools, Anycubic, MEmorandum of agreement, PFMS (Public finance management system), GEM (Government E MarketPlace), Furniture, Laptop, Projector" />
+
+<meta name="description" content="Shriji TechnoAspire Pvt.Ltd is a one stop solution for kids with interest in robotics and coding. Let your child understand the concept and not just merely learn the code. The focus of Excellence in Robotics Shriji TechnoAspire Pvt. Ltd  The ideal stage to Explore, Learn, and Build Technological Ideas at your Institution. We have uncommon contributions as per your necessities and prerequisites. The lab content and the educational program is planned and created by specialists." />
+
+<meta name="keywords" content="Embedded, IOT, Robotics, Electronics, Vocational, STEM, Science, Engineering, Mathematics, Prototyping, 3D Printing, ATL, Atal Tinkering laboratory, Atal Innovation Mission, LBD, Learning by doing, Hands on Learning, Gujarat, Gandhinagar, Shriji, Shriji Technoaspire, Blix, Mechanical Tools, Anycubic, MEmorandum of agreement, PFMS (Public finance management system), GEM (Government E MarketPlace), Furniture, Laptop, Projector" />
+
+
+<meta property="og:title" content="Indias Leading Brand in establishment of ATL Lab | Robotics | STEM | ARVR | Drone Lab in School colleges and Universities | Private Lab |  Internet of Things | Artificial Intelligence | Virtual reality | Drone | 3D Printing | Electronics | Arduino | Raspberry Pi | Embedded |  IOT | Vocational | STEM | Science | Engineering  | Mathematics | Prototyping | Atal Tinkering laboratory | Atal Innovation Mission | LBD | Learning by doing | Hands on Learning | Gujarat | Gandhinagar | Shriji |  Shriji Technoaspire | Blix | Mechanical Tools | Anycubic | MEmorandum of agreement | PFMS (Public finance management system) | GEM (Government E MarketPlace) | Furniture | Laptop | Projector" />
+
+<meta property="og:image" content="http://shrijitechnoaspire.in/upload/other/Shriji_icon.png">
+
+<meta property="og:url" content="http://shrijitechnoaspire.in/">
+
+<meta id="meta-tag-description" property="og:description" content="Shriji TechnoAspire Pvt.Ltd is a one stop solution for kids with interest in robotics and coding. Let your child understand the concept and not just merely learn the code. The focus of Excellence in Robotics Shriji TechnoAspire Pvt. Ltd  The ideal stage to Explore, Learn, and Build Technological Ideas at your Institution. We have uncommon contributions as per your necessities and prerequisites. The lab content and the educational program is planned and created by specialists." />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+
+<meta name="next-head-count" content="12">	  <link rel="preload" href="_next/static/css/styles.9565e869.chunk-1.css" as="style">
+      <link rel="stylesheet" href="_next/static/css/styles.9565e869.chunk-1.css">
+      <link rel="preload" href="_next/static/2kyE2IuGF6spm1l5G9xX7/pages/index-5-1.js" as="script">
+      <link rel="preload" href="_next/static/2kyE2IuGF6spm1l5G9xX7/pages/_app-1.js" as="script">
+      <link rel="preload" href="_next/static/runtime/webpack-23167cc87d3a63535c3f-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/framework.1e7d3133aba32d15f89e-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/37941ac462824840b935a28215a89ced880ed00c.69dfc3191da201f9e2e6-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/styles.8f237ff6fe77f6c6dcb4-1.js" as="script">
+      <link rel="preload" href="_next/static/runtime/main-830950f4c518b4860b07-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/f9b0d29cb6aa144f094709701ca6178948791d90.6348f380e59b30cbff39-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/0d11e4121f9df8d7849ce287d663279b94194ff3.4f4181a9a07912d90c91-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/39a9175b2e21b8ddeda25885474da16be1231f86.bd88eda29e7e8c1cfa6d-1.js" as="script">
+      <link rel="preload" href="_next/static/chunks/f85d1a46f912ae3fb45cde1c61d83655c1ccc192.4f433df4a574bbec675c-1.js" as="script">
+
+	  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css">
+	  <link rel="stylesheet" type="text/css" href="_next/static/css/custom.css">
+	  
+	  <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Parisienne&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap" rel="stylesheet">
+	  
+	  <link rel="shortcut icon" href="upload/other/Shriji_icon.png" type="image/x-icon">	
+	 
+    
+   </head>
+   <body>
+      <div id="__next">
+          
+		  <div id="navbar" class="navbar-area fixed-top">
+				
+				<style>
+    
+    @media (min-width: 768px) and (max-width: 1024px) {
+  
+     .item1{
+        padding-top: 5px !important;
+     }
+     
+    }
+    
+    @media only screen and (max-width: 767px) and (max-width: 1024px)
+    {
+     .logo1
+     {
+         margin-left : 30px !important;
+         height:30px;
+         max-width: 300% !important;
+         
+     } 
+    }
+    .logo1
+     {
+         max-width: 240%;
+     }
+</style> 
+
+<nav class="navbar navbar-expand-md navbar-light">
+               <div class="container">
+                  <a class="navbar-brand" href="Home">
+					<img src="upload/other/Shriji_logo.png" alt="Shriji TechnoAspire Pvt.Ltd" class="logo1" />
+				  </a>
+				  <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="icon-bar top-bar"></span>
+					<span class="icon-bar middle-bar"></span>
+					<span class="icon-bar bottom-bar"></span>
+				  </button>
+				  
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                     <ul class="navbar-nav m-auto">
+                        <li class="nav-item">
+                           <a class="nav-link" href="Home">Home</a>                          
+                        </li>
+                        <li class="nav-item">
+                           <a class="nav-link" href="About/Us">About Us</a>
+                        </li>
+						<li class="nav-item">
+                           <a class="nav-link" href="ATL">ATL</a>
+                        </li>
+						<li class="nav-item item1">
+                           <a class="nav-link">Our Work <i class="bx bx-chevron-down"></i></a>
+                           <ul class="dropdown-menu">
+                              <li class="nav-item"><a class="nav-link" href="Our/Work/School">School ATL Lab</a></li>
+                              <li class="nav-item"><a class="nav-link" href="Our/Work/Private">Clientele</a></li> 
+                           </ul>
+                        </li>
+                        <li class="nav-item">
+                           <a class="nav-link" href="Our/Project/School">Our Project</a>
+                        </li>
+						<li class="nav-item" style="display:none">
+                           <a class="nav-link" href="Our/Project/School">Our Project <i class="bx bx-chevron-down"></i></a>
+                           <ul class="dropdown-menu">
+                              <li class="nav-item"><a class="nav-link" href="Our/Project/School">School Project</a></li>
+                              <li class="nav-item"><a class="nav-link" href="Our/Project/Client">Client Project</a></li> 
+                           </ul>
+                        </li>
+                        
+                        <li class="nav-item">
+                           <a class="nav-link" href="Gallery">Gallery</a>
+                        </li>
+						<li class="nav-item">
+                           <a class="nav-link" href="Our/Service">Services</a>
+                        </li>
+						
+                        <li class="nav-item">
+                           <a class="nav-link" href="Contact/Us">Contact Us</a>
+                        </li>
+						
+                     </ul>
+                  </div>
+               </div>
+            </nav>          
+		  </div>
+         
+		  <style>
+    
+    .bannercap{
+        background-color: #3e409596;
+        border-radius: 25px;
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+    .bannerimg1{
+        background-image: url(upload/other/1600x600.JPG); 
+        background-size: 100% 100%;
+    }
+    .bannerimg2{
+        background-image: url(upload/other/b-1.jpeg); 
+        background-size: 100% 84%; 
+        background-repeat:no-repeat; 
+        background-position:bottom;
+    }
+    
+    @media (max-width: 767px)
+	 {
+	     .bannerimg1{
+            background-size: cover !important;
+        }
+        .bannerimg2{
+            background-size: 100% 75%;
+        }
+	 }
+</style>
+
+<div class="page-title-area item-bg1 bannerimg2" >
+	<div class="container">
+	   <div class="page-title-content">
+		  <h2 style="display:none">Page Not Found</h2>
+		  <ul>
+			 <li style="font-size:18px"><a href="Home">Home</a></li>
+			 <li style="color:white; font-size:18px">Error</li>
+		  </ul>
+	   </div>
+	</div>
+ </div>		 
+		 
+         <!---------- WORK SPACE AREA START ---------->
+		 
+		 
+		 <div class="error-area">
+	<div class="d-table">
+	   <div class="d-table-cell">
+		  <div class="error-content-wrap">
+			 <h1>4 <span>0</span> 4</h1>
+			 <h3>Oops! Page Not Found</h3>
+			 <p>The page you were looking for could not be found.</p>
+			 <a class="default-btn btn-two" href="Home">Return To Home Page</a>
+		  </div>
+	   </div>
+	</div>
+ </div>		 
+		 <!---------- WORK SPACE AREA END ---------->
+		
+		
+         
+         <footer class="footer-top-area pt-100 pb-70">
+            
+ <div class="container">
+               <div class="row">
+                  <div class="col-lg-3 col-md-6" style="display:none">
+                     <div class="single-widget">
+                        <a href="Home" class="logo"><img src="upload/other/Shriji_logo.png" alt="Shriji TechnoAspire Pvt.Ltd" class="mainlogo"></a>
+                        <p style="text-align:justify"><b>Shriji TechnoAspire Pvt Ltd.</b> are an education institution proving solutions to students in the field of Brain Development, Robotics and Artificial Intelligence with a view to transform the education industry and equip students with 21st century skills and make them future ready.</p>
+                        <ul class="social-icon">
+                           <li><a target="_blank" href=""><i class="bx bxl-facebook"></i></a></li>
+                           <li><a target="_blank" href=""><i class="bx bxl-twitter"></i></a></li>
+                           <li><a target="_blank" href=""><i class="bx bxl-pinterest-alt"></i></a></li>
+                           <li><a target="_blank" href=""><i class="bx bxl-linkedin"></i></a></li>
+                           <li><a target="_blank" href=""><i class="bx bxl-youtube"></i></a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6">
+                     <div class="single-widget">
+                        <h3>Services</h3>
+                        <ul>
+                           <li><a href="Home"><i class="right-icon bx bx-chevrons-right"></i>Home</a></li>
+                           <li><a href="About/Us"><i class="right-icon bx bx-chevrons-right"></i>About Us</a></li>
+                           <li><a href="Gallery"><i class="right-icon bx bx-chevrons-right"></i>Gallery</a></li>
+                           <li><a href="Contact/Us"><i class="right-icon bx bx-chevrons-right"></i>Contact Us</a></li>
+						   <li><a href="Our/Service"><i class="right-icon bx bx-chevrons-right"></i>Our Service</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6">
+                     <div class="single-widget">
+                        <h3>Important Links</h3>
+                        <ul>
+						   <li><a href="ATL"><i class="right-icon bx bx-chevrons-right"></i>About ATL</a></li>
+                           <li><a href="Our/Work/School"><i class="right-icon bx bx-chevrons-right"></i>School ATL Lab</a></li>
+                           <li><a href="Our/Work/Private"><i class="right-icon bx bx-chevrons-right"></i>Clientele</a></li>
+                           <li><a href="Our/Project/School"><i class="right-icon bx bx-chevrons-right"></i>School Project</a></li>
+                           <li style="display:none"><a href="Our/Project/Client"><i class="right-icon bx bx-chevrons-right"></i>Client Project</a></li>
+                           
+                        </ul>
+                     </div>
+                  </div>
+				  <div class="col-lg-3 col-md-6">
+                     <div class="single-widget">
+                        <h3>Head Office</h3>
+                        <ul class="information">
+                           <li class="address"><i class="flaticon-maps-and-flags"></i><span>Address</span>214, Goldjewel Complex, Nr. Tata Chowkdi, Beside D-Mart, Sec - 26, Gandhinagar, Gujarat-382026.</li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6">
+                     <div class="single-widget">
+                        <h3>Information</h3>
+                        <ul class="information">
+                           <li class="address"><i class="flaticon-call"></i><span>Phone</span><a href="tel:+91 9726519892" target="_blank">+91 9726519892</a></li>
+                           <li class="address"><i class="flaticon-envelope"></i><span>Email</span><a href="mailto:info@shrijitechnoaspire.com" target="_blank" >info@shrijitechnoaspire.com</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="footer-shape">
+				<img src="_next/static/images/footer-shape-one-42e80878fb976a984e0fab1ab943b359-1.png" alt="Image">
+				<img src="_next/static/images/footer-shape-two-727ff0ce4b6b4a515d581e51a08c6dd6-1.png" alt="Image">
+			</div>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+   $(".navbar-toggler").click(function(){
+      $(this).toggleClass("collapsed");
+      $(".collapse").toggleClass("show");
+   });
+});
+</script>         </footer>
+		 
+         <footer class="footer-bottom-area">
+              
+ <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-lg-7">
+                     <div class="copy-right">
+                        <p>
+                           Copyright <i class="bx bx-copyright"></i> &nbsp; Shriji TechnoAspire Pvt.Ltd. 2026                        </p>
+                     </div>
+                  </div>
+                  
+                  <div class="col-lg-5">
+                     <div class="designed">
+                        <p>Designed By  <a target="_blank" href="http://invisionsoftwaresolution.in/">Invision Software Solution</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>         </footer>
+         
+      </div>
+	  
+      <script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/index-5","query":{},"buildId":"2kyE2IuGF6spm1l5G9xX7","nextExport":true,"isFallback":false}</script>
+	  <script nomodule="" src="_next/static/runtime/polyfills-8fb3670161ddd3770698-1.js"></script>
+	  <script async="" data-next-page="/index-5" src="_next/static/2kyE2IuGF6spm1l5G9xX7/pages/index-5-1.js"></script>
+	  <script async="" data-next-page="/_app" src="_next/static/2kyE2IuGF6spm1l5G9xX7/pages/_app-1.js"></script>
+	  <script src="_next/static/runtime/webpack-23167cc87d3a63535c3f-1.js" async=""></script>
+	  <script src="_next/static/chunks/framework.1e7d3133aba32d15f89e-1.js" async=""></script>
+	  <script src="_next/static/chunks/37941ac462824840b935a28215a89ced880ed00c.69dfc3191da201f9e2e6-1.js" async=""></script>
+	  <script src="_next/static/chunks/styles.8f237ff6fe77f6c6dcb4-1.js" async=""></script>
+	  <script src="_next/static/runtime/main-830950f4c518b4860b07-1.js" async=""></script>
+	  <script src="_next/static/chunks/f9b0d29cb6aa144f094709701ca6178948791d90.6348f380e59b30cbff39-1.js" async=""></script>
+	  <script src="_next/static/chunks/0d11e4121f9df8d7849ce287d663279b94194ff3.4f4181a9a07912d90c91-1.js" async=""></script>
+	  <script src="_next/static/chunks/39a9175b2e21b8ddeda25885474da16be1231f86.bd88eda29e7e8c1cfa6d-1.js" async=""></script>
+	  
+	  <!-- <script src="http://localhost/jump_react_new/_next/static/chunks/f85d1a46f912ae3fb45cde1c61d83655c1ccc192.4f433df4a574bbec675c-1.js" async=""></script>  -->
+	  
+	  <script src="_next/static/2kyE2IuGF6spm1l5G9xX7/_buildManifest-1.js" async=""></script>
+	  <script src="_next/static/2kyE2IuGF6spm1l5G9xX7/_ssgManifest-1.js" async=""></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+	  
+	  <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
+	  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
+	  
+	  <script>
+	$(document).ready(function() {
+		  $(window).scroll(function() { // check if scroll event happened
+			if ($(document).scrollTop() > 50) { // check if user scrolled more than 50 from top of the browser window
+			  $(".fixed-top").css("background-color", "#000"); // if yes, then change the color of class "navbar-fixed-top" to white (#f8f8f8)
+			} else {
+			  $(".fixed-top").css("background-color", "transparent"); // if not, change it back to transparent
+			}
+		  });
+$(".owl-carousel.arduix-slider").owlCarousel({
+		 items: 1,
+		itemsDesktop:[1000,1],
+		itemsDesktopSmall:[979,1],
+		itemsTablet:[768, 1],
+		itemsMobile:[650, 1],
+		pagination: true,
+		autoPlay: 5000
+	});
+	$("#testimonial-slider").owlCarousel({
+		items: 3,
+		itemsDesktop:[1000,3],
+		itemsDesktopSmall:[979,2],
+		itemsTablet:[768, 2],
+		itemsMobile:[650, 1],
+		pagination: true,
+		autoPlay: true
+	  });
+	$(".partner").owlCarousel({
+		items: 5,
+		itemsDesktop:[1000,3],
+		itemsDesktopSmall:[979,2],
+		itemsTablet:[768, 2],
+		itemsMobile:[650, 2],
+		pagination: true,
+		autoPlay: true
+	  });
+	  $(".atl-gallery").owlCarousel({
+		items: 3,
+		itemsDesktop:[1000,3],
+		itemsDesktopSmall:[979,2],
+		itemsTablet:[768, 1],
+		itemsMobile:[650, 1],
+		pagination: true,
+		autoPlay: 3000
+	  });
+	$("#owl-demo").owlCarousel({ 
+		  autoPlay: 3000, //Set AutoPlay to 3 seconds 
+		  items : 3,
+		  itemsDesktop : [1199,3],
+		  itemsDesktopSmall : [979,3],
+		  pagination: true,
+	 
+	  });        
+	 });
+	</script>	  
+	<script>
+ $().ready(function(){
+  $('.tab-title>a').click(function(e){
+    e.preventDefault();
+    var index = $(this).parent().index();
+    $(this).parent().addClass('active')
+         .siblings().removeClass('active')
+         .parent('ul.tabs').siblings('.tabs-content').children('.content').removeClass('active')
+         .eq(index).addClass('active');
+  });
+})
+</script>
+
+
+<script type="text/javascript">
+   $(document).ready( function() {
+
+   var itemSelector = '.grid-item'; 
+
+   var $container = $('#container').isotope({
+      itemSelector: itemSelector,
+      masonry: {
+        columnWidth: itemSelector,
+        isFitWidth: true
+      }
+   });
+
+   //Ascending order
+   var responsiveIsotope = [
+      [480, 7],
+      [720, 10]
+   ];
+
+   var itemsPerPageDefault = 12;
+   var itemsPerPage = defineItemsPerPage();
+   var currentNumberPages = 1;
+   var currentPage = 1;
+   var currentFilter = '*';
+   var filterAtribute = 'data-filter';
+   var pageAtribute = 'data-page';
+   var pagerClass = 'isotope-pager';
+
+   function changeFilter(selector) {
+      $container.isotope({
+         filter: selector
+      });
+   }
+
+
+   function goToPage(n) {
+      currentPage = n;
+
+      var selector = itemSelector;
+         selector += ( currentFilter != '*' ) ? '['+filterAtribute+'="'+currentFilter+'"]' : '';
+         selector += '['+pageAtribute+'="'+currentPage+'"]';
+         if(currentFilter == '*'){
+          $(".certificates").hide();
+         }
+         if(currentFilter == 'Certificate'){
+          $(".certificates").show();
+         }
+      changeFilter(selector);
+   }
+   
+   function defineItemsPerPage() {
+      var pages = itemsPerPageDefault;
+
+      for( var i = 0; i < responsiveIsotope.length; i++ ) {
+         if( $(window).width() <= responsiveIsotope[i][0] ) {
+            pages = responsiveIsotope[i][1];
+            break;
+         }
+
+         
+
+      }
+
+      return pages;
+   }
+   
+   function setPagination() {
+
+      var SettingsPagesOnItems = function(){
+
+         var itemsLength = $container.children(itemSelector).length;
+         
+         var pages = Math.ceil(itemsLength / itemsPerPage);
+         var item = 1;
+         var page = 1;
+         var selector = itemSelector;
+            selector += ( currentFilter != '*' ) ? '['+filterAtribute+'="'+currentFilter+'"]' : '';
+         
+         $container.children(selector).each(function(){
+            if( item > itemsPerPage ) {
+               page++;
+               item = 1;
+            }
+            $(this).attr(pageAtribute, page);
+            item++;
+         });
+
+         currentNumberPages = page;
+
+      }();
+
+      var CreatePagers = function() {
+
+         var $isotopePager = ( $('.'+pagerClass).length == 0 ) ? $('<div class="'+pagerClass+'"></div>') : $('.'+pagerClass);
+
+         $isotopePager.html('');
+         
+         for( var i = 0; i < currentNumberPages; i++ ) {
+            var $pager = $('<a href="javascript:void(0);" class="pager" '+pageAtribute+'="'+(i+1)+'"></a>');
+               $pager.html(i+1);
+               
+               $pager.click(function(){
+                  var page = $(this).eq(0).attr(pageAtribute);
+                  goToPage(page);
+               });
+
+            $pager.appendTo($isotopePager);
+         }
+
+         $container.after($isotopePager);
+
+      }();
+
+   }
+
+   setPagination();
+   goToPage(1);
+
+   //Adicionando Event de Click para as categorias
+   $('.filters a').click(function(){
+      var filter = $(this).attr(filterAtribute);
+      currentFilter = filter;
+
+      setPagination();
+      goToPage(1);
+
+
+   });
+
+   //Evento Responsivo
+   $(window).resize(function(){
+      itemsPerPage = defineItemsPerPage();
+      setPagination();
+   });
+
+   
+
+});
+
+
+
+ $(document).ready( function() {   
+
+// filter items on button click
+$('.filter-button-group').on( 'click', 'li', function() {
+  var filterValue = $(this).attr('data-filter');
+  $('.grid').isotope({ filter: filterValue });
+  $('.filter-button-group li').removeClass('active');
+  $(this).addClass('active');
+});
+    })
+   
+
+ $(document).ready( function() {   
+
+// filter items on button click
+$('.isotope-pager').on( 'click', 'a', function() {
+  var filterValue = $(this).attr('data-page');
+
+  $('.isotope-pager a').removeClass('active');
+  $(this).addClass('active');
+});
+    })
+   
+   
+   
+   
+   
+   
+   
+
+$(document).ready(function(){
+$('.popupimg').magnificPopup({
+   type: 'image',
+  mainClass: 'mfp-with-zoom', 
+  gallery:{
+         enabled:true
+      },
+
+  zoom: {
+    enabled: true, 
+
+    duration: 300, // duration of the effect, in milliseconds
+    easing: 'ease-in-out', // CSS transition easing function
+
+    opener: function(openerElement) {
+
+      return openerElement.is('img') ? openerElement : openerElement.find('img');
+  }
+}
+
+});
+
+});
+
+</script>
+
+   </body>
+</html>
