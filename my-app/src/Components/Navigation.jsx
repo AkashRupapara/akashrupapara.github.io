@@ -5,6 +5,7 @@ import { Menu, MoonStar, SunMedium, X, Download } from 'lucide-react';
 const navLinks = [
   { label: 'About', href: '#about' },
   { label: 'Experience', href: '#experience' },
+  { label: 'Education', href: '#education' },
   { label: 'Projects', href: '#projects' },
   { label: 'Awards', href: '#awards' },
   { label: 'Contact', href: '#contact' },

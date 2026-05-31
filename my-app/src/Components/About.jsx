@@ -41,7 +41,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-16 items-start mb-20">
           <FadeIn delay={0.1}>
             <div className="space-y-5 text-gray-400 text-lg leading-relaxed">
-              <p>
+              {/* <p>
                 Senior Software Engineer at{' '}
                 <span className="text-indigo-400 font-medium">Fortinet</span> building
                 AI-powered cloud security infrastructure. I work at the intersection of{' '}
@@ -56,6 +56,26 @@ export default function About() {
               <p>
                 I care about systems that are observable, APIs that are clean, and
                 code that doesn't become someone else's incident at 2am.
+              </p> */}
+              <p>
+                Welcome 👋 I'm a{' '}
+                <span className="text-white font-semibold italic">Senior Software Engineer</span>{' '}
+                passionate about building systems that actually matter - scalable, observable,
+                and production-ready. Currently at{' '}
+                <span className="text-indigo-400 font-semibold">Fortinet</span>, where I build
+                AI-powered cloud security infrastructure protecting 100+ enterprise customers.
+              </p>
+              <p>
+                My day-to-day spans LLM-assisted alert summarization, multi-cloud CNAPP backends,
+                gRPC microservices at 5K+ concurrent requests, and full-stack analyst UX -
+                from raw event ingestion to the investigation UI a security analyst sees.
+              </p>
+              <p>
+                I'm particularly drawn to the intersection of{' '}
+                <span className="text-white font-semibold">GenAI and distributed systems</span> -
+                designing agentic pipelines, multi-cloud backends, and full-stack security tooling
+                that security analysts and engineers rely on daily. From raw event ingestion to the
+                investigation UI a security analyst sees at 2am - I own the full stack.
               </p>
             </div>
           </FadeIn>
@@ -78,6 +98,31 @@ export default function About() {
             </div>
           </FadeIn>
         </div>
+<FadeIn delay={0.15}>
+          <p className="text-gray-500 text-sm font-mono uppercase tracking-widest mb-6">What drives me</p>
+          <div className="grid sm:grid-cols-2 gap-4 mb-20">
+            {[
+              { emoji: '🧩', title: 'Hard problems', desc: 'Curious and energized by systems challenges - the harder the problem, the more interesting the engineering.' },
+              { emoji: '🏗️', title: 'Design first', desc: 'Strong emphasis on designing and modeling before building - clean architecture saves everyone time.' },
+              { emoji: '🤝', title: 'Collaboration & consensus', desc: 'Engineering is a team sport. I thrive in cross-functional teams and value open communication.' },
+              { emoji: '✨', title: 'Craftsmanship', desc: 'Understanding abstractions deeply, writing code that\'s readable and maintainable long after it ships.' },
+            ].map(({ emoji, title, desc }) => (
+              <motion.div
+                key={title}
+                initial={{ opacity: 0, y: 16 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                className="flex gap-4 p-5 rounded-xl bg-white/5 border border-white/10 hover:border-indigo-500/30 transition-colors duration-300"
+              >
+                <span className="text-2xl flex-shrink-0">{emoji}</span>
+                <div>
+                  <p className="text-white font-semibold text-sm mb-1">{title}</p>
+                  <p className="text-gray-500 text-sm leading-relaxed">{desc}</p>
+                </div>
+              </motion.div>
+            ))}
+          </div>
+        </FadeIn>
 
         <FadeIn delay={0.2}>
           <h3 className="text-white font-semibold text-xl mb-4">Skills & Technologies</h3>

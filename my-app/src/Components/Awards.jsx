@@ -8,7 +8,7 @@ const metrics = [
   { value: '3x', label: 'Faster CI/CD build times after GitHub Actions migration', icon: TrendingUp, color: 'text-blue-400', bg: 'bg-blue-500/10', border: 'border-blue-500/20' },
   { value: '80M+', label: 'Users impacted at Meta Fantasy Games', icon: Users, color: 'text-sky-400', bg: 'bg-sky-500/10', border: 'border-sky-500/20' },
   { value: '<5 min', label: 'Alert pipeline P95 latency (down from 90–120 min)', icon: Zap, color: 'text-purple-400', bg: 'bg-purple-500/10', border: 'border-purple-500/20' },
-  { value: '90%', label: 'UI rendering improvement via Redux memoization', icon: TrendingUp, color: 'text-pink-400', bg: 'bg-pink-500/10', border: 'border-pink-500/20' },
+  { value: '35%', label: 'MTTR reduction after AI-assisted alert triage and enrichment', icon: Zap, color: 'text-pink-400', bg: 'bg-pink-500/10', border: 'border-pink-500/20' },
 ];
 
 const awards = [

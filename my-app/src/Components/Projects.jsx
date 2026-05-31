@@ -21,7 +21,7 @@ const projects = [
     tags: ['React', 'Node.js', 'PostgreSQL', 'WebSockets', 'Docker', 'Kubernetes'],
     category: 'Full-Stack',
     logo: '/logos/ubereats.svg',
-    techLogos: ['/logos/postgres.svg', '/logos/redis.svg', '/logos/docker.svg'],
+    techLogos: ['/logos/react.svg', '/logos/postgres.svg', '/logos/docker.svg'],
     company: 'SJSU Project',
     github: 'https://github.com/AkashRupapara/UberEats',
   },

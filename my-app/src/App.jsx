@@ -30,7 +30,7 @@ function App() {
   }, [theme]);
 
   return (
-    <div className={theme === 'light' ? 'min-h-screen bg-slate-100 text-slate-900' : 'min-h-screen bg-gray-950 text-gray-100'}>
+    <div className={theme === 'light' ? 'min-h-screen bg-slate-100 text-slate-900 overflow-x-hidden' : 'min-h-screen bg-gray-950 text-gray-100 overflow-x-hidden'}>
       <Navigation theme={theme} onThemeToggle={() => setTheme(current => (current === 'dark' ? 'light' : 'dark'))} />
       <main>
         <Hero theme={theme} />
